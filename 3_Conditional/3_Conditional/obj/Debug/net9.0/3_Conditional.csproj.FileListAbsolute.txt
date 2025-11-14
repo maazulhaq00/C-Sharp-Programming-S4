@@ -1,0 +1,15 @@
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\bin\Debug\net9.0\3_Conditional.exe
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\bin\Debug\net9.0\3_Conditional.deps.json
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\bin\Debug\net9.0\3_Conditional.runtimeconfig.json
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\bin\Debug\net9.0\3_Conditional.dll
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\bin\Debug\net9.0\3_Conditional.pdb
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\obj\Debug\net9.0\3_Conditional.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\obj\Debug\net9.0\3_Conditional.AssemblyInfoInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\obj\Debug\net9.0\3_Conditional.AssemblyInfo.cs
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\obj\Debug\net9.0\3_Conditional.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\obj\Debug\net9.0\3_Conditional.sourcelink.json
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\obj\Debug\net9.0\3_Conditional.dll
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\obj\Debug\net9.0\refint\3_Conditional.dll
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\obj\Debug\net9.0\3_Conditional.pdb
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\obj\Debug\net9.0\3_Conditional.genruntimeconfig.cache
+Z:\Semester 03 (AI)\C#\2410F1\3_Conditional\3_Conditional\obj\Debug\net9.0\ref\3_Conditional.dll
