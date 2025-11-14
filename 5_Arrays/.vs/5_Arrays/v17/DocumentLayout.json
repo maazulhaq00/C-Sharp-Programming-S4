@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Semester 03 (AI)\\C#\\2410F1\\5_Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE13996-F29A-4537-A4ED-14F7E9CB2C11}|5_Arrays\\5_Arrays.csproj|z:\\semester 03 (ai)\\c#\\2410f1\\5_arrays\\5_arrays\\jaggedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE13996-F29A-4537-A4ED-14F7E9CB2C11}|5_Arrays\\5_Arrays.csproj|solutionrelative:5_arrays\\jaggedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE13996-F29A-4537-A4ED-14F7E9CB2C11}|5_Arrays\\5_Arrays.csproj|z:\\semester 03 (ai)\\c#\\2410f1\\5_arrays\\5_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE13996-F29A-4537-A4ED-14F7E9CB2C11}|5_Arrays\\5_Arrays.csproj|solutionrelative:5_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE13996-F29A-4537-A4ED-14F7E9CB2C11}|5_Arrays\\5_Arrays.csproj|z:\\semester 03 (ai)\\c#\\2410f1\\5_arrays\\5_arrays\\rectangulararray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE13996-F29A-4537-A4ED-14F7E9CB2C11}|5_Arrays\\5_Arrays.csproj|solutionrelative:5_arrays\\rectangulararray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE13996-F29A-4537-A4ED-14F7E9CB2C11}|5_Arrays\\5_Arrays.csproj|z:\\semester 03 (ai)\\c#\\2410f1\\5_arrays\\5_arrays\\singledimensionarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE13996-F29A-4537-A4ED-14F7E9CB2C11}|5_Arrays\\5_Arrays.csproj|solutionrelative:5_arrays\\singledimensionarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JaggedArray.cs",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\C#\\2410F1\\5_Arrays\\5_Arrays\\JaggedArray.cs",
+              "RelativeDocumentMoniker": "5_Arrays\\JaggedArray.cs",
+              "ToolTip": "Z:\\Semester 03 (AI)\\C#\\2410F1\\5_Arrays\\5_Arrays\\JaggedArray.cs",
+              "RelativeToolTip": "5_Arrays\\JaggedArray.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:13:58.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RectangularArray.cs",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\C#\\2410F1\\5_Arrays\\5_Arrays\\RectangularArray.cs",
+              "RelativeDocumentMoniker": "5_Arrays\\RectangularArray.cs",
+              "ToolTip": "Z:\\Semester 03 (AI)\\C#\\2410F1\\5_Arrays\\5_Arrays\\RectangularArray.cs",
+              "RelativeToolTip": "5_Arrays\\RectangularArray.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:08:24.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingleDimensionArray.cs",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\C#\\2410F1\\5_Arrays\\5_Arrays\\SingleDimensionArray.cs",
+              "RelativeDocumentMoniker": "5_Arrays\\SingleDimensionArray.cs",
+              "ToolTip": "Z:\\Semester 03 (AI)\\C#\\2410F1\\5_Arrays\\5_Arrays\\SingleDimensionArray.cs",
+              "RelativeToolTip": "5_Arrays\\SingleDimensionArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:07:19.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\C#\\2410F1\\5_Arrays\\5_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "5_Arrays\\Program.cs",
+              "ToolTip": "Z:\\Semester 03 (AI)\\C#\\2410F1\\5_Arrays\\5_Arrays\\Program.cs",
+              "RelativeToolTip": "5_Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:06:11.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
