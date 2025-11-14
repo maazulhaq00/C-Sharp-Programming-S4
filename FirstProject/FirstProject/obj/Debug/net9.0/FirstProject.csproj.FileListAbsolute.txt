@@ -1,0 +1,15 @@
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\bin\Debug\net9.0\FirstProject.exe
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\bin\Debug\net9.0\FirstProject.deps.json
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\bin\Debug\net9.0\FirstProject.runtimeconfig.json
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\bin\Debug\net9.0\FirstProject.dll
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\bin\Debug\net9.0\FirstProject.pdb
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfoInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfo.cs
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.sourcelink.json
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.dll
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\obj\Debug\net9.0\refint\FirstProject.dll
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.pdb
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.genruntimeconfig.cache
+Z:\Semester 03 (AI)\C#\2410F1\FirstProject\FirstProject\obj\Debug\net9.0\ref\FirstProject.dll
