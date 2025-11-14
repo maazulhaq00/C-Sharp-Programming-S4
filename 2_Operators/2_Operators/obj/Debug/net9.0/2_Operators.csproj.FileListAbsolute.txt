@@ -1,0 +1,15 @@
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\bin\Debug\net9.0\2_Operators.exe
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\bin\Debug\net9.0\2_Operators.deps.json
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\bin\Debug\net9.0\2_Operators.runtimeconfig.json
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\bin\Debug\net9.0\2_Operators.dll
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\bin\Debug\net9.0\2_Operators.pdb
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\obj\Debug\net9.0\2_Operators.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\obj\Debug\net9.0\2_Operators.AssemblyInfoInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\obj\Debug\net9.0\2_Operators.AssemblyInfo.cs
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\obj\Debug\net9.0\2_Operators.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\obj\Debug\net9.0\2_Operators.sourcelink.json
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\obj\Debug\net9.0\2_Operators.dll
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\obj\Debug\net9.0\refint\2_Operators.dll
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\obj\Debug\net9.0\2_Operators.pdb
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\obj\Debug\net9.0\2_Operators.genruntimeconfig.cache
+Z:\Semester 03 (AI)\C#\2410F1\2_Operators\2_Operators\obj\Debug\net9.0\ref\2_Operators.dll
