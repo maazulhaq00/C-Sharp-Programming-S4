@@ -1,0 +1,15 @@
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\bin\Debug\net9.0\6_functions_methods.exe
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\bin\Debug\net9.0\6_functions_methods.deps.json
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\bin\Debug\net9.0\6_functions_methods.runtimeconfig.json
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\bin\Debug\net9.0\6_functions_methods.dll
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\bin\Debug\net9.0\6_functions_methods.pdb
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\obj\Debug\net9.0\6_functions_methods.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\obj\Debug\net9.0\6_functions_methods.AssemblyInfoInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\obj\Debug\net9.0\6_functions_methods.AssemblyInfo.cs
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\obj\Debug\net9.0\6_functions_methods.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\obj\Debug\net9.0\6_functions_methods.sourcelink.json
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\obj\Debug\net9.0\6_functions_methods.dll
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\obj\Debug\net9.0\refint\6_functions_methods.dll
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\obj\Debug\net9.0\6_functions_methods.pdb
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\obj\Debug\net9.0\6_functions_methods.genruntimeconfig.cache
+Z:\Semester 03 (AI)\C#\2410F1\6_functions_methods\6_functions_methods\obj\Debug\net9.0\ref\6_functions_methods.dll
