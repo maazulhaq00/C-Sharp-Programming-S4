@@ -1,0 +1,15 @@
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\bin\Debug\net9.0\4_loops.exe
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\bin\Debug\net9.0\4_loops.deps.json
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\bin\Debug\net9.0\4_loops.runtimeconfig.json
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\bin\Debug\net9.0\4_loops.dll
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\bin\Debug\net9.0\4_loops.pdb
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\obj\Debug\net9.0\4_loops.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\obj\Debug\net9.0\4_loops.AssemblyInfoInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\obj\Debug\net9.0\4_loops.AssemblyInfo.cs
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\obj\Debug\net9.0\4_loops.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\obj\Debug\net9.0\4_loops.sourcelink.json
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\obj\Debug\net9.0\4_loops.dll
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\obj\Debug\net9.0\refint\4_loops.dll
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\obj\Debug\net9.0\4_loops.pdb
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\obj\Debug\net9.0\4_loops.genruntimeconfig.cache
+Z:\Semester 03 (AI)\C#\2410F1\4_loops\4_loops\obj\Debug\net9.0\ref\4_loops.dll
