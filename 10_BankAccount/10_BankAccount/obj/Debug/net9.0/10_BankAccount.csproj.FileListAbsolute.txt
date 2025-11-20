@@ -1,0 +1,15 @@
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\bin\Debug\net9.0\10_BankAccount.exe
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\bin\Debug\net9.0\10_BankAccount.deps.json
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\bin\Debug\net9.0\10_BankAccount.runtimeconfig.json
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\bin\Debug\net9.0\10_BankAccount.dll
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\bin\Debug\net9.0\10_BankAccount.pdb
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\obj\Debug\net9.0\10_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\obj\Debug\net9.0\10_BankAccount.AssemblyInfoInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\obj\Debug\net9.0\10_BankAccount.AssemblyInfo.cs
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\obj\Debug\net9.0\10_BankAccount.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\obj\Debug\net9.0\10_BankAccount.sourcelink.json
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\obj\Debug\net9.0\10_BankAccount.dll
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\obj\Debug\net9.0\refint\10_BankAccount.dll
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\obj\Debug\net9.0\10_BankAccount.pdb
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\obj\Debug\net9.0\10_BankAccount.genruntimeconfig.cache
+Z:\Semester 03 (AI)\C#\2410F1\10_BankAccount\10_BankAccount\obj\Debug\net9.0\ref\10_BankAccount.dll

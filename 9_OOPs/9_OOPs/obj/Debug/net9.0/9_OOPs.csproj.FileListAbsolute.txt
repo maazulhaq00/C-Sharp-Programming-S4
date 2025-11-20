@@ -1,0 +1,15 @@
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\bin\Debug\net9.0\9_OOPs.exe
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\bin\Debug\net9.0\9_OOPs.deps.json
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\bin\Debug\net9.0\9_OOPs.runtimeconfig.json
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\bin\Debug\net9.0\9_OOPs.dll
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\bin\Debug\net9.0\9_OOPs.pdb
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\obj\Debug\net9.0\9_OOPs.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\obj\Debug\net9.0\9_OOPs.AssemblyInfoInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\obj\Debug\net9.0\9_OOPs.AssemblyInfo.cs
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\obj\Debug\net9.0\9_OOPs.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\obj\Debug\net9.0\9_OOPs.sourcelink.json
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\obj\Debug\net9.0\9_OOPs.dll
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\obj\Debug\net9.0\refint\9_OOPs.dll
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\obj\Debug\net9.0\9_OOPs.pdb
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\obj\Debug\net9.0\9_OOPs.genruntimeconfig.cache
+Z:\Semester 03 (AI)\C#\2410F1\9_OOPs\9_OOPs\obj\Debug\net9.0\ref\9_OOPs.dll
