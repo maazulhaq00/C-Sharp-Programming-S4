@@ -1,0 +1,15 @@
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\bin\Debug\net9.0\11_OOPs_Abstraction.exe
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\bin\Debug\net9.0\11_OOPs_Abstraction.deps.json
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\bin\Debug\net9.0\11_OOPs_Abstraction.runtimeconfig.json
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\bin\Debug\net9.0\11_OOPs_Abstraction.dll
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\bin\Debug\net9.0\11_OOPs_Abstraction.pdb
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\obj\Debug\net9.0\11_OOPs_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\obj\Debug\net9.0\11_OOPs_Abstraction.AssemblyInfoInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\obj\Debug\net9.0\11_OOPs_Abstraction.AssemblyInfo.cs
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\obj\Debug\net9.0\11_OOPs_Abstraction.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\obj\Debug\net9.0\11_OOPs_Abstraction.sourcelink.json
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\obj\Debug\net9.0\11_OOPs_Abstraction.dll
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\obj\Debug\net9.0\refint\11_OOPs_Abstraction.dll
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\obj\Debug\net9.0\11_OOPs_Abstraction.pdb
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\obj\Debug\net9.0\11_OOPs_Abstraction.genruntimeconfig.cache
+Z:\Semester 03 (AI)\C#\2410F1\11_OOPs_Abstraction\11_OOPs_Abstraction\obj\Debug\net9.0\ref\11_OOPs_Abstraction.dll
