@@ -1,0 +1,12 @@
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\bin\Debug\LMS.exe.config
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\bin\Debug\LMS.exe
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\bin\Debug\LMS.pdb
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\obj\Debug\LMS.exe
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\obj\Debug\LMS.pdb
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\obj\Debug\LMS.ViewBooksForm.resources
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\obj\Debug\LMS.AddBookForm.resources
+Z:\Semester 03 (AI)\C#\2410F1\LMS\LMS\obj\Debug\LMS.EditBookForm.resources
