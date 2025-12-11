@@ -20,12 +20,12 @@ namespace LMS
         SqlConnection conn = new SqlConnection("Data Source=LAB10-8; User ID=sa; " +
             "Password=aptech; Initial Catalog=lms_db");
 
-        private void ViewBooksForm_Load(object sender, EventArgs e)
+        private void FetchBooks()
         {
             conn.Open();
-            
+
             string sql = "SELECT * FROM Books";
-            
+
             SqlDataAdapter bookDA = new SqlDataAdapter(sql, conn);
 
             conn.Close();
@@ -35,6 +35,11 @@ namespace LMS
             bookDA.Fill(bookDT);
 
             dataGridView1.DataSource = bookDT;
+        }
+
+        private void ViewBooksForm_Load(object sender, EventArgs e)
+        {
+            FetchBooks();
 
         }
 
@@ -47,16 +52,35 @@ namespace LMS
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            int id = Convert.ToInt32(dataGridView1.Rows[e.RowIndex].Cells["bid"].Value);
-            string bookname = Convert.ToString(dataGridView1.Rows[e.RowIndex].Cells["bookname"].Value);
-            int price = Convert.ToInt32(dataGridView1.Rows[e.RowIndex].Cells["price"].Value);
-            string authorname = Convert.ToString(dataGridView1.Rows[e.RowIndex].Cells["authorname"].Value);
+            if (dataGridView1.Columns[e.ColumnIndex].HeaderText == "Edit")
+            {
 
-            //MessageBox.Show($"tHE ID IS {id} ");
 
-            this.Hide();
-            EditBookForm editBookForm1 = new EditBookForm(id, bookname, price, authorname);
-            editBookForm1.ShowDialog();
+                int id = Convert.ToInt32(dataGridView1.Rows[e.RowIndex].Cells["bid"].Value);
+                string bookname = Convert.ToString(dataGridView1.Rows[e.RowIndex].Cells["bookname"].Value);
+                int price = Convert.ToInt32(dataGridView1.Rows[e.RowIndex].Cells["price"].Value);
+                string authorname = Convert.ToString(dataGridView1.Rows[e.RowIndex].Cells["authorname"].Value);
+
+                //MessageBox.Show($"tHE ID IS {id} ");
+
+                this.Hide();
+                EditBookForm editBookForm1 = new EditBookForm(id, bookname, price, authorname);
+                editBookForm1.ShowDialog();
+            }
+            else if (dataGridView1.Columns[e.ColumnIndex].HeaderText == "Delete")
+            {
+                int id = Convert.ToInt32(dataGridView1.Rows[e.RowIndex].Cells["bid"].Value);
+
+                conn.Open();
+                string sql = $"DELETE FROM Books WHERE bid={id}";
+                SqlCommand cmd = new SqlCommand(sql, conn);
+                cmd.ExecuteNonQuery();
+                conn.Close();
+
+                MessageBox.Show("Book Deleted Successfully");
+
+                FetchBooks();
+            }
         }
     }
 }
